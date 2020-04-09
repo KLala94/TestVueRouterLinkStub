@@ -1,13 +1,11 @@
 <template>
     <div>
-<h1>The First Comonent</h1>
+        <h1>The First Comonent</h1>
     </div>
 </template>
 
 <script>
-    export default {
-        
-    }
+    export default {}
 </script>
 
 <style lang="scss" scoped>
